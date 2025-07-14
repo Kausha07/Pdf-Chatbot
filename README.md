@@ -34,7 +34,7 @@ The PDF Chatbot project provides both a command-line interface (CLI) and a web-b
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/pdf-chatbot.git
+   git clone https://github.com/Kausha07/pdf-chatbot.git
    cd pdf-chatbot
 2)Install Dependencies: Install the required packages using:
 pip install -r requirements.txt
